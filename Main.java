@@ -5,7 +5,7 @@ class Main {
       String [] studentNames = new int[15];
       
       for (int i = 0; i < seatNumbers.length; i++)
-      System.out.println("What is the students name? ")
+      System.out.println("What is the students name?");
 
       Scanner scan = new scanner(System.in);
 
